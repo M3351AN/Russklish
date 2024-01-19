@@ -15,7 +15,10 @@ By comparing the corresponding letter combinations in the pronunciation list. It
 Not just for Russian, the tool has some compatibility between any Cyrillic and Germanic languages
 
 ## Credits
-Thanks to Bing copilot for collecting pronunciation comparison list.
+- Bing copilot for collecting pronunciation comparison list.
+- Provider of this idea
+- ![Screenshot_2024-01-19-21-40-37-281_com google android apps photos-edit](https://github.com/M3351AN/Russklish/assets/65479796/9f3c4121-5101-468b-842e-085ff43ac295)
+
 
 ## Not very grateful
 MI AI refuses to collect pronunciation tables for me
